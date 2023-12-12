@@ -1,0 +1,12 @@
+New customer Registered:
+Name: fnwjfn
+Email: bhfnjfn
+Password: fnwejfn
+END
+
+New customer Registered:
+Name: 3
+Email: 3
+Password: 3
+END
+

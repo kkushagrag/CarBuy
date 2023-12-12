@@ -1,0 +1,6 @@
+Welcome to the Car Rental Portal!
+-----------------------------
+1. View Cars
+2. Buy a Car
+3. View Buying History
+4. Exit Portal

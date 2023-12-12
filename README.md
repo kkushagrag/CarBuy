@@ -16,7 +16,7 @@ Welcome to the CarBuying and Managing Portal, a Java-based console application d
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 
 - Java Development Kit (JDK) installed
 - Command Line Interface (CLI) or Terminal

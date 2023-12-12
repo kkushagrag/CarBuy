@@ -1,4 +1,4 @@
-Welcome to the Car Rental Portal!
+Welcome to the Car Buying Portal!
 -----------------------------
 1. View Cars
 2. Buy a Car

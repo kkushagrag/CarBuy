@@ -23,8 +23,8 @@ Welcome to the CarBuying and Managing Portal, a Java-based console application d
 
 ### Contributors
 
-Kushagra Gangwar
-Yash Sharma
-Bhavesh Chaudhary
-Piyush Garg
-Manan Khandelwal 
+- Kushagra Gangwar
+- Yash Sharma
+- Bhavesh Chaudhary
+- Piyush Garg
+- Manan Khandelwal 

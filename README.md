@@ -21,5 +21,10 @@ Welcome to the CarBuying and Managing Portal, a Java-based console application d
 - Java Development Kit (JDK) installed
 - Command Line Interface (CLI) or Terminal
 
+### Contributors
 
-
+Kushagra Gangwar
+Yash Sharma
+Bhavesh Chaudhary
+Piyush Garg
+Manan Khandelwal 
